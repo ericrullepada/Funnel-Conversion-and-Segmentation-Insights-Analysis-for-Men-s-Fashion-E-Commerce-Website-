@@ -34,7 +34,9 @@ Despite steady website traffic, the men’s fashion e-commerce platform is not m
 ## **Skills:**
    
 **MySql** : CTEs, Joins, Case, Aggregate Functions 
+
 **Statistical Testing** :   Chi-suare to evaluate conversion differences across segments
+
 **Power BI** : DAX, writing functions , ETL , calculated columns ,  and data visualizations .
 
 ## **Results and Business Recommendation**
