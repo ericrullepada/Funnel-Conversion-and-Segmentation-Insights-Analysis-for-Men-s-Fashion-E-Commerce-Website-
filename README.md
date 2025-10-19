@@ -6,9 +6,9 @@
 **Analyzing 10,000 user sessions**, the funnel tracks four key stages: Visited → Add to Cart → Checkout Start → Purchase_.
 
 The most significant drop-off  **(40.29%)** occurs between Visited Stage to Add to Cart, with an overall conversion rate to purchase of just **16.54%**.
-This Analysis aim to answer a business questions **"Does Segemented Values (eg. Country,Device,Gender Preferred Category ,and Referral Source) have a significant effect in a purchase journey of the users? "**
+This Analysis aim to answer a business questions **"What part of the user journey have a high abandonment rate and Does Segemented Values (eg. Country,Device,Gender Preferred Category ,and Referral Source) have a significant effect in a purchase journey of the users? "**
 
-The result shows that the Conversion  is stable. The funnel appears balanced across user types — no single segment drastically underperforms.
+The result shows that the Conversion between Visit and Add to Cart have a major decline. The funnel appears balanced across user types — no single segment drastically underperforms.
 
 ![](https://github.com/ericrullepada/Funnel-Conversion-and-Segmentation-Insights-Analysis-for-Men-s-Fashion-E-Commerce-Website-/blob/main/dashboard.png)
 
@@ -16,8 +16,6 @@ The result shows that the Conversion  is stable. The funnel appears balanced acr
 ## **Recommendations:**
 
 •	Improve product pages to boost Add to Cart actions.
-
-•	Simplify the checkout process to reduce abandonment.
 
 •	Run A/B tests on checkout flow and promotions rather than segment specific upgrade.
 
@@ -36,8 +34,8 @@ Despite steady website traffic, the men’s fashion e-commerce platform is not m
 ## **Skills:**
    
 **MySql** : CTEs, Joins, Case, Aggregate Functions 
-**Statistical Testing** :   Chi-suare to evaluate conversion differences accross segments
-**Power BI** : Star Schema for Data Modelling  , DAX, writing functions , ETL , calculated columns ,  and data visualizations .
+**Statistical Testing** :   Chi-suare to evaluate conversion differences across segments
+**Power BI** : DAX, writing functions , ETL , calculated columns ,  and data visualizations .
 
 ## **Results and Business Recommendation**
 A major decline is observed throughout the funnel, with the **most significant drop-off (40.29%)** occurring between **Visit** and **Add to Cart**. Ultimately, only **16.54 % of total visitors complete a purchase**.
