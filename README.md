@@ -10,7 +10,7 @@ This Analysis aim to answer a business questions **"Does Segemented Values (eg. 
 
 The result shows that the Conversion  is stable. The funnel appears balanced across user types — no single segment drastically underperforms.
 
-![](https://github.com/ericrullepada/Funnel-Analysis-for-Men-s-Fashion-Wear-E-Commerce-Website/blob/main/Picture1.png)
+![](https://github.com/ericrullepada/Funnel-Conversion-and-Segmentation-Insights-Analysis-for-Men-s-Fashion-E-Commerce-Website-/blob/main/dashboard.png)
 
 
 ## **Recommendations:**
