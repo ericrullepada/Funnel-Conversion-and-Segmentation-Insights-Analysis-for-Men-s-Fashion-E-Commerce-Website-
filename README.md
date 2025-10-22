@@ -6,7 +6,7 @@
 **Analyzing 10,000 user sessions**, the funnel tracks four key stages: Visited → Add to Cart → Checkout Start → Purchase_.
 
 The most significant drop-off  **(40.29%)** occurs between Visited Stage to Add to Cart, with an overall conversion rate to purchase of just **16.54%**.
-This Analysis aim to answer a business questions **"What part of the user journey have a high abandonment rate and Does Segemented Values (eg. Country,Device,Gender Preferred Category ,and Referral Source) have a significant effect in a purchase journey of the users? "**
+This Analysis aim to answer a business questions **"What part of the user journey have a high abandonment rate and Does Segmented Values (eg. Country,Device,Gender Preferred Category ,and Referral Source) have a significant effect in a purchase journey of the users? "**
 
 The result shows that the Conversion between Visit and Add to Cart have a major decline. The funnel appears balanced across user types — no single segment drastically underperforms.
 
